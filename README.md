@@ -1,5 +1,4 @@
-<h1>🖐️Hi, i'm Rick.<h1>
-
-:computer: **I love** computers and how they work! 🤓
-
-
+<div>
+  <p>Hi, i'm Rick!</p>
+  <input type="checkbox">
+</div>
