@@ -11,8 +11,10 @@
    - 👾 I love projects that influence young people to program like DisCloud.<br>
    <h3>
 <h1>
-<h1> 💗 Some projects 
+<h1> 💗 Some projects with Discord Bots
    <h3>
-      <a href="https://www.discloudbot.com"> DisCloud - Discord Bot's Host
+      <a href="https://www.discloudbot.com">🟢 DisCloud - Discord Bot's Host
+      <a href="https://top.gg/bot/725422124495274124">🐢 Tortuguita - A very funny music bot to Discord!
+      <a href="https://discord.gg/karvuupXnB">🍻 My sweet Discord Server :3
    <h3>
 <h1>
