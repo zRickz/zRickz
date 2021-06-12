@@ -13,8 +13,8 @@
 <h1>
 <h1> 💗 Some projects with Discord Bots
    <h3>
-      <a href="https://www.discloudbot.com">🟢 DisCloud - Discord Bot's Host
-      <a href="https://top.gg/bot/725422124495274124">🐢 Tortuguita - A very funny music bot to Discord!
-      <a href="https://discord.gg/karvuupXnB">🍻 My sweet Discord Server :3
+      <a href="https://www.discloudbot.com">🟢 DisCloud - Discord Bot's Host<br>
+      <a href="https://top.gg/bot/725422124495274124">🐢 Tortuguita - A very funny music bot to Discord!<br>
+      <a href="https://discord.gg/karvuupXnB">🍻 My sweet Discord Server :3<br>
    <h3>
 <h1>
