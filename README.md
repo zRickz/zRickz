@@ -1,4 +1,4 @@
 <div>
-  <p>Hi, i'm Rick!</p>
-  <input type="checkbox">
+  <label for="fname">First name:</label>
+  <input type="text" id="fname" name="fname">
 </div>
