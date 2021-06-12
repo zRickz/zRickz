@@ -1,3 +1,3 @@
-<img src="https://thumbs.gfycat.com/AccomplishedRequiredCockatiel-max-1mb.gif">
+<img src="https://pngimg.com/uploads/welcome/welcome_PNG78.png">
 
-<a style="width: 100px; height: 100px; background-color: red;" href="https://www.facebook.com">Clique aqui para saber mais sobre mim 🥰
+<a style="font-size: 100px;"> Hello, i'm Rick.
