@@ -13,6 +13,9 @@
    - 👾 I love projects that influence young people to program like DisCloud.<br>
    <h3>
 <h1>
+
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/365e45cb-f07a-4c88-a433-10e18063baad/d3iapfh-fc5d77be-fcf5-43a9-b676-83b7553bf246.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM2NWU0NWNiLWYwN2EtNGM4OC1hNDMzLTEwZTE4MDYzYmFhZFwvZDNpYXBmaC1mYzVkNzdiZS1mY2Y1LTQzYTktYjY3Ni04M2I3NTUzYmYyNDYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.W5BuDUfkVnI6oGKN4q4BvSW9okgeEYZgStcaY62pHcs">
+
 <h1> 💗 Some projects with Discord Bots
    <h3>
       <a href="https://www.discloudbot.com">🟢 DisCloud - Discord Bot's Host<br>
