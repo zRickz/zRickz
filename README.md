@@ -1,4 +1,4 @@
-<img src="http://beeimg.com/images/s83999808163.png">
+<img src="http://pngimg.com/uploads/welcome/small/welcome_PNG61.png">
 
 [![zRickz GitHub stats](https://github-readme-stats.vercel.app/api?username=zRickz&theme=dark&show_icons=true)](https://github.com/zRickz/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zRickz&layout=compact&langs_count=16&theme=dark)](https://github.com/zRickz/github-readme-stats)
