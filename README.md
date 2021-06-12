@@ -11,3 +11,8 @@
    - 👾 I love projects that influence young people to program like DisCloud.<br>
    <h3>
 <h1>
+<h1> 💗 Some projects 
+   <h3>
+      <a href="https://www.discloudbot.com"> DisCloud - Discord Bot's Host
+   <h3>
+<h1>
