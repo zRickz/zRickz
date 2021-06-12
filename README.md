@@ -1,7 +1,5 @@
 <img src="https://static.vecteezy.com/system/resources/previews/001/195/702/non_2x/speech-bubbles-pixel-welcome-png.png">
 
-[![zRickz GitHub stats](https://github-readme-stats.vercel.app/api?username=zRickz&theme=dark&show_icons=true)](https://github.com/zRickz/github-readme-stats)
-
 <h1> 👋 Hi, i'm Rick.
    <h3>- ❤️ I love computers and how they work.<br>
    - 🐍 My favorite lang is Python.<br>
@@ -11,7 +9,6 @@
    <h3>
 <h1>
    
-<h1>❓ Some facts about me (more)
-   <h2>Some things i know
-      
-   <h1>
+<h1>❓ My profile<h1>
+   [![zRickz GitHub stats](https://github-readme-stats.vercel.app/api?username=zRickz&theme=dark&show_icons=true)](https://github.com/zRickz/github-readme-stats)
+   
