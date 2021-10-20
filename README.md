@@ -23,4 +23,4 @@
    <h3>
 <h1>
    
-<img style="border-radius: 50px; border: 2px solid black;" src="https://toppng.com/public/uploads/thumbnail/repeat-radial-bg-background-porky-pig-thats-all-folks-11562937541njwi2qaopp.png">
+<img style="background: red;" src="https://toppng.com/public/uploads/thumbnail/repeat-radial-bg-background-porky-pig-thats-all-folks-11562937541njwi2qaopp.png">
