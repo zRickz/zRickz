@@ -19,9 +19,8 @@
 <h1> 💗 Some projects with Discord Bots
    <h3>
       <a href="https://www.discloudbot.com">🟢 DisCloud - Discord Bot's Host<br>
-      <a href="https://github.com/DiogoMarques2003/tortuguita">🐢 Tortuguita - A very funny music bot to Discord (JavaScript)!<br>
       <a href="https://discord.gg/karvuupXnB">🍻 My sweet Discord Server :3<br>
    <h3>
 <h1>
    
-<img src="https://toppng.com/public/uploads/thumbnail/repeat-radial-bg-background-porky-pig-thats-all-folks-11562937541njwi2qaopp.png">
+<img style="width: 100px; height: 10px" src="https://toppng.com/public/uploads/thumbnail/repeat-radial-bg-background-porky-pig-thats-all-folks-11562937541njwi2qaopp.png">
