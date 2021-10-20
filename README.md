@@ -1,6 +1,4 @@
-<div style="width: 100px; height: 100px;">
-   <img src="https://giffiles.alphacoders.com/590/59075.gif">
-</div>
+<img src="https://giffiles.alphacoders.com/590/59075.gif">
    
    
 [![zRickz GitHub stats](https://github-readme-stats.vercel.app/api?username=zRickz&theme=dark&show_icons=true)](https://github.com/zRickz/github-readme-stats)
