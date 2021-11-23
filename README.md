@@ -16,8 +16,10 @@
 <h1>
 
 <h1>📋 Some Projects<br>
-   <a href="https://github.com/zRickz/DiscordPy-Exemplos">👨‍💻 (PT-BR) Um repositório cheio de exemplos e desafios em discord.py</a><br>
-   <a href="https://squarecloud.app/">🌐 Square Cloud - A nice host for your discord bot!</a><br>
+   <h3>
+      <a href="https://github.com/zRickz/DiscordPy-Exemplos">👨‍💻 (PT-BR) Um repositório cheio de exemplos e desafios em discord.py</a><br>
+      <a href="https://squarecloud.app/">🌐 Square Cloud - A nice host for your discord bot!</a><br>
+   </h3>
 </h1>
    
 <br>
