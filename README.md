@@ -11,10 +11,15 @@
    - 🐍 My favorite lang is Python.<br>
    - 🤖 I make some bots for Discord and I was part of the DisCloud team, i loved the project.<br>
    - 😎 My favorite place is the beach.<br>
-   - 👾 I love projects that influence young people to program like DisCloud.<br>
+   - 👾 I love projects that influence young people to program.<br>
    <h3>
 <h1>
 
+<h1>📋 Some Projects
+   <a href="https://github.com/zRickz/DiscordPy-Exemplos">👨‍💻 (PT-BR) Um repositório cheio de exemplos e desafios em discord.py</a>
+   <a href="https://squarecloud.app/">🌐 Square Cloud - A nice host for your discord bot!</a>
+</h1>
+   
 <br>
 <br>
    
