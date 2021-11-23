@@ -8,7 +8,7 @@
 <h1> 👋 Hi, i'm Rick.
    <h3>- ❤️ I love computers and how they work.<br>
    - 🐍 My favorite lang is Python.<br>
-   - 🤖 I make some bots for Discord and I was part of the DisCloud team, i loved the project.<br>
+   - 🤖 I make some bots for Discord.<br>
    - 😎 My favorite place is the beach.<br>
    - 👾 I love projects that influence young people to program.<br>
    <h3>
