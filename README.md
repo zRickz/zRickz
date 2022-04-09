@@ -1,11 +1,9 @@
-<div>
 <img src="https://giffiles.alphacoders.com/590/59075.gif">
    
 
 [![zRickz GitHub stats](https://github-readme-stats.vercel.app/api?username=zRickz&theme=dark&show_icons=true)](https://github.com/zRickz/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zRickz&layout=compact&langs_count=16&theme=dark)](https://github.com/zRickz/github-readme-stats)
-</div>
+<br>
 
-<div>
 <h1> 👋 Hi, i'm Rick.
    <h3>- ❤️ I love computers and how they work.<br>
    - 🐍 My favorite lang is Python.<br>
@@ -14,7 +12,6 @@
    - 👾 I love projects that influence young people to program.<br>
    <h3>
 <h1>
-</div>
    
 <h1>📋 Some Projects<br>
    <h2>
