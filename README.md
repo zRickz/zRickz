@@ -5,7 +5,7 @@
 
 
 
-<h1> 👋 Hi, i'm Rick.
+<h1 style='color: blue'> 👋 Hi, i'm Rick.
    <h3>- ❤️ I love computers and how they work.<br>
    - 🐍 My favorite lang is Python.<br>
    - 🤖 I make some bots for Discord.<br>
